@@ -6,6 +6,6 @@
 使用語言：MATLAB, Python <br>
 [Report](./report.pdf) <br>
 
-組名次：
+組名次：前標
   * Public Leaderboard: 29/146
   * Private Leaderboard: 30/146 <br>
