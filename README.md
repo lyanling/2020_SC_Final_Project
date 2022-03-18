@@ -4,4 +4,8 @@
 
 競賽內容：給定歌曲的音高和特徵值，將其轉換成特定格式的歌譜。 <br>
 使用語言：MATLAB, Python <br>
-[Report](./report.pdf)
+[Report](./report.pdf) <br>
+
+組名次：
+  * Public Leaderboard: 29/146
+  * Private Leaderboard: 30/146 <br>
